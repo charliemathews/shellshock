@@ -1,0 +1,5 @@
+GET /cgi-bin/ss.cgi HTTP/1.1
+Host: 192.168.55.216
+User-Agent: 
+Content-Type: text/plain;
+Connection: keep-alive

